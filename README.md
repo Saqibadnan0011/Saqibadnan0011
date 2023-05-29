@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saqibadnan0011
-- 👀 I’m interested in React.js
-- 🌱 I’m currently learning Java..
-- 💞️ I’m looking to collaborate on JavaScript..
+- 👀 I’m interested in IOS App Development
+- 🌱 I’m currently learning Java( Data Structure & Algo )
+- 💞️ I’m looking to collaborate on IOS Project
 - 📫 Reach me ( Saqibadnan7755@gmail.com ) or contact on Twitter ( @Saqibadnan0011 )
 
 <!---
