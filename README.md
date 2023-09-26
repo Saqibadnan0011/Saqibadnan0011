@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Saqibadnan7755@gmail.com**
 
-- ⚡ Fun fact **I'm adventuro**
+- ⚡ Fun fact **I'm adventurous
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
