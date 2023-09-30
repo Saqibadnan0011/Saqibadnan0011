@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, My name's Saqib Adnan</h1>
 <h3 align="center">A Tremendous Software Engineer from Pakistan</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqibadnan0011&label=Profile%20views&color=0e75b6&style=flat" alt="saqibadnan0011" /> </p>
+<img align= "left" alt= "coding" width= "400" src= "https://i.gifer.com/81RA.gif">
 
 - 🌱 I’m currently learning **Python**
 
