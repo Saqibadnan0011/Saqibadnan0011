@@ -4,7 +4,7 @@
 
 <img align= "left" alt= "coding" width= "400" src= "https://i.gifer.com/81RA.gif">
 
-- 🌱 I’m currently learning **Python**
+- ♨️ I"m currently learning Java
 
 - 📝 I regularly write articles on [https://medium.com/@saqibadnan7755](https://medium.com/@saqibadnan7755)
 
