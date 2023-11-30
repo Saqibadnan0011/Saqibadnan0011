@@ -1,16 +1,11 @@
 
-<h1 align="center">Hi 👋, My name's Saqib Adnan</h1>
-<h3 align="center">A Tremendous Software Engineer from Pakistan</h3>
-
-<img align= "left" alt= "coding" width= "400" src= "https://i.gifer.com/81RA.gif">
-
-- ♨️ I"m currently learning Java
-
-- 📝 I regularly write articles on [https://medium.com/@saqibadnan7755](https://medium.com/@saqibadnan7755)
-
-- 📫 How to reach me **Saqibadnan7755@gmail.com**
-
-- ⚡ Fun fact **I'm adventurous
+<h2>Hi there 👋,I'm Saqib Adnan and I really passionate about IOS development and Java Development</h2>
+<h3>About me</h3>
+<ul>
+  <li><p>I'm self taught IOS developer and love to share my knowledge by contributing the open source project and add most potential impact.</p></li>
+  <li><p>I've Instagram page where i have shared my IOS content, Tips or maybe some rough ideas about IOS development. And how i became what i am today, more intuitively and hope you like those.</p></li>
+  <li><p>Fun fact I love to explore different culture and travel a lot around my country and visited many historical place.</p></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
