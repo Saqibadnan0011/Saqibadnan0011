@@ -13,8 +13,8 @@
 
 <h1>📊 Github Stats</h1>
 <img align= "left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=Saqibadnan0011&show_icons=true&theme=transparent" />
-<img src="https://streak-stats.demolab.com/?user=Saqibadnan0011&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibadnan0011&show_icons=true&locale=en&layout=compact&theme=dark" alt="saqibadnan0011" />
+<img align = "left" width = "36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibadnan0011&show_icons=true&locale=en&layout=compact&theme=dark" alt="saqibadnan0011" />
+<img  src="https://streak-stats.demolab.com/?user=Saqibadnan0011&theme=dark" />
 
 <h1>🌐 My Socials</h1>
 <p>
