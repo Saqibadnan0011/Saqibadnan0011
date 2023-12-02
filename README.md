@@ -22,5 +22,8 @@
   </a>
 </p>
 
+<h2>☕️Now you can Buy me a Coffee</h2>
+<a href="https://www.buymeacoffee.com/saqibadnan3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <h3>Explore my repo to know more...👇</h3>
 
