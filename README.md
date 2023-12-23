@@ -18,12 +18,15 @@
 
 <h1>🌐 My Socials</h1>
 <p>
-  <a href="https://www.linkedin.com/in/saqib-adnan/"><img width="171" alt="Screenshot 2023-11-30 at 11 41 59 PM" src="https://github.com/dheerajghub/Design_to_code/assets/79377722/b763d650-21d7-4ba3-8f71-64c266da0759">
+  <a href="https://www.linkedin.com/in/saqib-adnan/"><img width="150" alt="Screenshot 2023-11-30 at 11 41 59 PM"       src="https://github.com/dheerajghub/Design_to_code/assets/79377722/b763d650-21d7-4ba3-8f71-64c266da0759">
+  </a>
+  <a href="https://twitter.com/Saqibadnan0011"><img width="160" alt="Screenshot 2023-12-23 at 2 04 12 PM" 
+  src="https://github.com/dheerajghub/Listly/assets/79377722/d8419f7f-681a-4e9b-b923-cb700130b5d2">
   </a>
 </p>
 
-<h2>☕️Now you can Buy me a Coffee</h2>
-<a href="https://www.buymeacoffee.com/saqibadnan3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<h1>☕️Now you can</h1>
+<a href="https://www.buymeacoffee.com/saqibadnan3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 150px !important;" ></a>
 
 <h3>Explore my repo to know more...👇</h3>
 
