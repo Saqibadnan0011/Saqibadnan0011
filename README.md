@@ -5,7 +5,7 @@
   <li><p>My name's Saqib Adnan and I have strong passion for IOS development🚀. Currently, done my Software Engineering degree📚.</p></li>
   <li><p>I'm self taught IOS developer 👨‍💻 and love to share my knowledge by contributing the open source project and add most potential impact.</p></li>
   <li><p>I've Instagram page where I have shared my IOS content, Tips or maybe some rough ideas about IOS development. And how I became what I am today, more intuitively and hope you like those.</p></li>
-  <li><p>Fun fact I love to explore different culture and travel 🏝️ a lot around my country and visited many historical place.</p></li>
+  <li><p>Beside the programming world, I love to explore different culture and travel 🏝️ a lot around my country and visited many historical place.</p></li>
 </ul>
 
 <h1 align="left">💻 Tech Stacks</h1>
