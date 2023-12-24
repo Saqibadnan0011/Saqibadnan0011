@@ -23,6 +23,8 @@
   <a href="https://twitter.com/Saqibadnan0011"><img width="160" alt="Screenshot 2023-12-23 at 2 04 12 PM" 
   src="https://github.com/dheerajghub/Listly/assets/79377722/d8419f7f-681a-4e9b-b923-cb700130b5d2">
   </a>
+  <a href="https://medium.com/@saqibadnan7755"><img width="160" alt="Screenshot 2023-12-24 at 5 08 25 PM"      src="https://github.com/Saqibadnan0011/Saqibadnan0011.github.io/assets/79377722/a3a0010c-a4ad-4f7f-ad65-48ce8389e5bb">
+  </a>
 </p>
 
 <h1>☕️Now you can</h1>
