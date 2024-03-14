@@ -1,6 +1,6 @@
 
 <h2>Hi 👋 What's up?</h2>
-<h1>🙋‍♂️ About me</h1>
+
 <ul>
   <li><p>My name's Saqib Adnan and I have strong passion for IOS development🚀. Currently, done my Software Engineering degree📚.</p></li>
   <li><p>I'm self taught IOS developer 👨‍💻 and love to share my knowledge by contributing the open source project and add most potential impact.</p></li>
@@ -16,19 +16,15 @@
 <img align = "left" width = "36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibadnan0011&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saqibadnan0011" />
 <img width="47%" src="https://streak-stats.demolab.com/?user=Saqibadnan0011&theme=tokyonight" />
 
-<h1>🌐 My Socials</h1>
+<h1>✨ Fun Fact</h1>
 <p>
-  <a href="https://www.linkedin.com/in/saqib-adnan/"><img width="150" alt="Screenshot 2023-11-30 at 11 41 59 PM"       src="https://github.com/dheerajghub/Design_to_code/assets/79377722/b763d650-21d7-4ba3-8f71-64c266da0759">
-  </a>
-  <a href="https://twitter.com/Saqibadnan0011"><img width="160" alt="Screenshot 2023-12-23 at 2 04 12 PM" 
-  src="https://github.com/dheerajghub/Listly/assets/79377722/d8419f7f-681a-4e9b-b923-cb700130b5d2">
-  </a>
-  <a href="https://medium.com/@saqibadnan7755"><img width="160" alt="Screenshot 2023-12-24 at 5 08 25 PM"      src="https://github.com/Saqibadnan0011/Saqibadnan0011.github.io/assets/79377722/a3a0010c-a4ad-4f7f-ad65-48ce8389e5bb">
-  </a>
+  <ul>
+    <li><p>Dragon Ball Z is my favorite character.</p></li>
+    <li><p>As a kid, I want to become a doctor.</p></li>
+    <li><p>I love using mac, after switching windows.</p></li>
+  </ul>
 </p>
 
-<h1>☕️Now you can</h1>
-<a href="https://www.buymeacoffee.com/saqibadnan3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 150px !important;" ></a>
-
-<h3>Explore my repo to know more...👇</h3>
+<h1>📫 Contact</h1>
+<p>For a quick response, DM me on <a href = "https://www.linkedin.com/in/saqib-adnan/">Linkedin</a></p>
 
