@@ -19,7 +19,7 @@
 <h1>✨ Fun Fact</h1>
 <p>
   <ul>
-    <li><p>Dragon Ball Z is my favorite character.</p></li>
+    <li><p>Goku is my favorite character.</p></li>
     <li><p>As a kid, I want to become a doctor.</p></li>
     <li><p>I love using mac, after switching windows.</p></li>
   </ul>
